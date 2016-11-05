@@ -16,6 +16,7 @@
 		7169532A1DCD732500B348F2 /* alertUsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716953291DCD732500B348F2 /* alertUsTests.swift */; };
 		716953351DCD732500B348F2 /* alertUsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716953341DCD732500B348F2 /* alertUsUITests.swift */; };
 		716953491DCD82DF00B348F2 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716953481DCD82DF00B348F2 /* WelcomeViewController.swift */; };
+		D92CB0771DCD90C7007E8545 /* README.MD in Sources */ = {isa = PBXBuildFile; fileRef = D92CB0761DCD90C7007E8545 /* README.MD */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		716953341DCD732500B348F2 /* alertUsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = alertUsUITests.swift; sourceTree = "<group>"; };
 		716953361DCD732500B348F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		716953481DCD82DF00B348F2 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		D92CB0761DCD90C7007E8545 /* README.MD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				7169531B1DCD732500B348F2 /* Assets.xcassets */,
 				7169531D1DCD732500B348F2 /* LaunchScreen.storyboard */,
 				716953201DCD732500B348F2 /* Info.plist */,
+				D92CB0761DCD90C7007E8545 /* README.MD */,
 			);
 			path = alertUs;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				716953491DCD82DF00B348F2 /* WelcomeViewController.swift in Sources */,
 				716953131DCD732500B348F2 /* AppDelegate.swift in Sources */,
 				716953151DCD732500B348F2 /* FirstViewController.swift in Sources */,
+				D92CB0771DCD90C7007E8545 /* README.MD in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
