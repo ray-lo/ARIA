@@ -17,6 +17,7 @@
 		716953351DCD732500B348F2 /* alertUsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716953341DCD732500B348F2 /* alertUsUITests.swift */; };
 		716953491DCD82DF00B348F2 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716953481DCD82DF00B348F2 /* WelcomeViewController.swift */; };
 		D92CB0771DCD90C7007E8545 /* README.MD in Sources */ = {isa = PBXBuildFile; fileRef = D92CB0761DCD90C7007E8545 /* README.MD */; };
+		D92CB0791DCD9120007E8545 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92CB0781DCD9120007E8545 /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		716953361DCD732500B348F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		716953481DCD82DF00B348F2 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		D92CB0761DCD90C7007E8545 /* README.MD */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.MD; sourceTree = "<group>"; };
+		D92CB0781DCD9120007E8545 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				7169531D1DCD732500B348F2 /* LaunchScreen.storyboard */,
 				716953201DCD732500B348F2 /* Info.plist */,
 				D92CB0761DCD90C7007E8545 /* README.MD */,
+				D92CB0781DCD9120007E8545 /* User.swift */,
 			);
 			path = alertUs;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				716953171DCD732500B348F2 /* SecondViewController.swift in Sources */,
 				716953491DCD82DF00B348F2 /* WelcomeViewController.swift in Sources */,
+				D92CB0791DCD9120007E8545 /* User.swift in Sources */,
 				716953131DCD732500B348F2 /* AppDelegate.swift in Sources */,
 				716953151DCD732500B348F2 /* FirstViewController.swift in Sources */,
 				D92CB0771DCD90C7007E8545 /* README.MD in Sources */,
